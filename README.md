@@ -1,3 +1,7 @@
+**Hey! :wave: I'm Aaron!
+
+http://i.imgur.com/tXSoThF.png
+
 Thanks for stopping by!  I'm a programmer learning JavaScript and front-end web programming at the moment, but I have an interest in learning a server-side language soon as well.  I'm hoping to transition into a programming position.
 
 🔭 I’m currently working on: the "JavaScript Algorithms and Data Structures" course on freeCodeCamp
