@@ -1,20 +1,26 @@
-**Hey! :wave: I'm Aaron!
+# Hey! :wave: I'm Aaron!
 
-http://i.imgur.com/tXSoThF.png
+------------------------------------
 
-Thanks for stopping by!  I'm a programmer learning JavaScript and front-end web programming at the moment, but I have an interest in learning a server-side language soon as well.  I'm hoping to transition into a programming position.
+### Who Am I?
 
-🔭 I’m currently working on: the "JavaScript Algorithms and Data Structures" course on freeCodeCamp
-<br>
-🌱 I’m currently learning: JavaScript
-<br>
-👯 I’m looking to collaborate on: A project that's basic enough for me to make my own pull request (with help or guidence)
-<br>
-💬 Ask me about: What I'm learning, what I'm excited about (and please share your answers as well)
-<br>
-📫 How to reach me: Twitter @mccollumaarons
-<br>
-😄 Pronouns: He/Him/Himself/Awesome
-<br>
-⚡ Fun fact: I'm a soccer fan!
+I'm a self-taught programmer interested in working as a programmer and wants to make a go of it!  Currently, I'm a customer success manager at a real estate company, and in the mornings and evenings I work on programming.  It's been really fun learning how to build basic programs, and I would like to one day work at a company building applications to help move society forward.
 
+------------------------------------
+
+### What am I learning right now?
+
+* Vanilla JavaScript courtesy of freeCodeCamp
+* How to use Git and Github
+* Solving problems with algorithms
+* Finding my way around my first Linux OS
+
+------------------------------------
+
+### What else do I do for fun?
+
+* Watch or play soccer
+* Drink coffee
+* Funny TV shows
+* Read
+* Video games with a good campaign story
