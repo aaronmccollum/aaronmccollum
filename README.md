@@ -4,16 +4,15 @@
 
 ### Who Am I?
 
-I'm a self-taught programmer interested in working as a programmer and wants to make a go of it!  Currently, I'm a customer success manager at a real estate company, and in the mornings and evenings I work on programming.  It's been really fun learning how to build basic programs, and I would like to one day work at a company building applications to help move society forward.
+I'm a self-taught programmer who is learning to code for fun and enjoys learning new things.  I have the hope of one day working at a company as a software developer, and until then I'll keep working on learning new things each day and enjoying the process.  I have a fairly outgoing personality, so feel free to say hello!
 
 ------------------------------------
 
 ### What am I learning right now?
 
-* Vanilla JavaScript courtesy of freeCodeCamp
+* Working through the App Academy Open course learning Ruby
 * How to use Git and Github
-* Solving problems with algorithms
-* Finding my way around my first Linux OS
+* Computer Science (through a few online courses)
 
 ------------------------------------
 
