@@ -10,7 +10,7 @@ I'm a self-taught programmer who is learning to code for fun and enjoys learning
 
 ### What am I learning right now?
 
-* Working through freeCodeCamp courses
+* Working through The Odin Project
 * How to use Git and Github
 * Computer Science - the CompTIA ITF+ training and certification prep
 
