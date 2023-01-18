@@ -10,9 +10,9 @@ I'm a self-taught programmer who is learning to code for fun and enjoys learning
 
 ### What am I learning right now?
 
-* Working through The Odin Project
-* How to use Git and Github
-* Computer Science - the CompTIA ITF+ training and certification prep
+* Working through App Academy Open
+* HTML, CSS, JavaScript, Python
+* Learning the Windows Enterprise environment and Microsoft 365 for my job
 
 ------------------------------------
 
