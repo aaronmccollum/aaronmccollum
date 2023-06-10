@@ -10,8 +10,8 @@ I'm a self-taught programmer who is learning to code for fun and enjoys learning
 
 ### What am I learning right now?
 
-* Working through App Academy Open
-* HTML, CSS, JavaScript, Python
+* Studying for cloud certifications
+* Full-Stack Developer path on Codecademy
 * Learning the Windows Enterprise environment and Microsoft 365 for my job
 
 ------------------------------------
