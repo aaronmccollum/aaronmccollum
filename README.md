@@ -10,8 +10,8 @@ I'm a self-taught programmer who is learning to code for fun and enjoys learning
 
 ### What am I learning right now?
 
-* Studying for cloud certifications
-* Full-Stack Developer path on Codecademy
+* Learning Pegasystems low-code development
+* Computer Science path on Codecademy
 * Learning the Windows Enterprise environment and Microsoft 365 for my job
 
 ------------------------------------
