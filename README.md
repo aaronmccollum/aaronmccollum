@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aaronmccollum.com](https://aaronmccollum.com)
 
-- 📝 I regularly write articles on [https://aaronmccollum.blogspot.com](https://aaronmccollum.blogspot.com)
+- 📝 I regularly write articles on [Medium]([url](https://medium.com/@amccollum.dev))
 
 - 💬 Ask me about **Low-code, front-end, or my homemade pancake recipe**
 
