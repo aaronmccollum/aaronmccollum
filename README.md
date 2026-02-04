@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 👨‍💻 All of my projects are available at [https://aaronmccollum.com](https://aaronmccollum.com)
+- 👨‍💻 All of my projects are [available on my portfolio site](https://aaronmccollum.netlify.app/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@amccollum.dev)
 
